@@ -1,4 +1,3 @@
 {
-  "/breedquiz/page": "app/breedquiz/page.js",
-  "/options1or2/page": "app/options1or2/page.js"
+  "/pets/add/page": "app/pets/add/page.js"
 }

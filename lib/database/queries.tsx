@@ -1,0 +1,1 @@
+export const insertPets = 'insert into pet (pet_type, litter, litter_details, sex, is_fixed, is_show_pet, fur_color, hypo_allergies, price_point, eye_color, age, hair_length, comments) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)'
